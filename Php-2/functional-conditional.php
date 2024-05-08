@@ -20,13 +20,13 @@
     // code function disini
     function greetings($value)
     {
-        echo $value;
+        echo "Hallo $value Selamat Datang di Garuda Cyber Institute";
         echo "<br>";
     }
     // Hapus komentar untuk menjalankan code!
+    greetings("Bagas");
+    greetings("Wahyu");
     greetings("Rahmat Hidaya");
-    greetings("Sistem Informasi");
-    greetings("Unilak");
     echo "<br>";
 
     echo "<h3>Soal No 2 Reverse String</h3>";
